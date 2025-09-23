@@ -1,0 +1,22 @@
+leftnav:
+- identifier: 379c0137-a20f-c94b-4881-7c99c9172d4a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b76d356e-4636-2c46-7d33-a6244cdd6017
+  name: Reading Schedule
+  pageRef: /pages/reading-schedule
+  weight: 20
+- identifier: 71e961a6-19ac-3de2-0813-05d37a620d6c
+  name: Essays
+  pageRef: /pages/essays/
+  weight: 30
+- identifier: 1f822eab-6ff3-fe1f-cd67-bccf45141a9f
+  name: Advice on Writing
+  pageRef: /pages/essays/advice-on-writing
+  parent: 71e961a6-19ac-3de2-0813-05d37a620d6c
+  weight: 40
+- identifier: f39183da-003e-c574-87ff-7a696c66db0c
+  name: Oral Reports
+  pageRef: /pages/oral-reports
+  weight: 50
