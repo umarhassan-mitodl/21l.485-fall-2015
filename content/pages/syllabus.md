@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on course meeting times, required
   texts, class rules, student work, grading policy, and the literature faculty policy
   on plagiarism.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +27,7 @@ Hardy, Thomas. _Jude the Obscure (Oxford World's Classics)_. Oxford University P
 
 Conrad, Joseph. _Lord Jim (Penguin Classics)_. Penguin Books, 2007. ISBN: 9780141441610.
 
-Kipling, Rudyard. _Kim (Oxford World's Classics)_. Oxford University Press, 2008. ISBN: 9780199536467. \[Preview with {{% resource_link "f3812e6e-8242-4623-bf1a-0fdec3381fef" "Google Books" %}}\]
+Kipling, Rudyard. _Kim (Oxford World's Classics)_. Oxford University Press, 2008. ISBN: 9780199536467. \[Preview with [Google Books](http://books.google.com/books?id=Jn8BzInDRkkC&pg=PAfrontcover)\]
 
 Ford, Ford Madox. _The Good Soldier (Penguin Classics)_. Penguin Classics, 2007. ISBN: 9780141441849.
 
@@ -90,4 +92,4 @@ Literature Faculty Policy on Plagiarism
 
 The Literature Section has formulated this statement and policy for all plagiarism cases:
 
-Plagiarism—the use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted and in all oral presentations, including images or texts in other media and for materials collected online. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the {{% resource_link "aad1509d-681c-47e9-83ff-e8c749a34a99" "Writing and Communication Center" %}}, review their {{% resource_link "fe2ad72c-7ee6-4683-886b-e98c4f214669" "Link" %}}, and review {{% resource_link "3dbf36dd-663b-4ef1-aaf5-8c6f73aaf4be" "MIT's online Academic Integrity Handbook" %}}.
+Plagiarism—the use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted and in all oral presentations, including images or texts in other media and for materials collected online. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/), review their [Link](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/), and review [MIT's online Academic Integrity Handbook](http://integrity.mit.edu).
